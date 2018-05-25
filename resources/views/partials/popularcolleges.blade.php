@@ -34,10 +34,10 @@
 
                     </div>
                 </div>
-                <div class="card-footer">
+                {{--<div class="card-footer">--}}
                     {{--<small>Last updated 3 mins ago</small>--}}
-                    <button class="btn btn-secondary float-right btn-sm">APPLY NOW</button>
-                </div>
+                    {{--<a href="/Apply" class="btn btn-secondary float-right btn-sm">APPLY NOW</a>--}}
+                {{--</div>--}}
             </div>
         </a>
         </div>
